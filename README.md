@@ -9,14 +9,19 @@
 ---
 
 ## 🔧 Skills
-- HTML, CSS, JavaScript
-- Python Basics
-- Git & GitHub
-- Kali Linux & Terminal
+- HTML, CSS, JS (Basic of C , C++ , java)
+- MySQL & PostgreSQL
+- Advanced Excel
+- Power BI
+- Python
+- GitHub
+- Kali Linux
+- Skilled in using AI tools like ChatGPT for research, writing, and data analysis
 
 ---
 
 ## 🚀 My Goals
+- I want to become a good Data Analyst
 - Learn advanced ethical hacking
 - Build open-source AI projects
 - Help beginners learn computers & cybersecurity
