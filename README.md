@@ -64,6 +64,7 @@
 
 ## 🧠 Mindset
 > **“Data tells the truth. AI helps understand it faster.”**
+> learn for fun eathical hacking 
 
 ---
 
