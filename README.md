@@ -13,6 +13,7 @@
 - 🐧 Strong interest in **Linux OS & Operating System concepts**
 - 📊 Learning **Data Analysis, Excel, SQL & Python**
 - 🤖 Using **AI tools daily** for learning, analysis & productivity
+- 🌐 using Ai Make Many Projects.
 - 🚀 Believe in *learning by doing*
 
 ---
