@@ -30,15 +30,7 @@
 - **Linux OS (Processes, File system, Networking)**
 - **AI tools for Data Analysis**
 
----
-
-## 💬 Ask Me About
-- Linux & OS basics  
-- Excel & beginner Data Analysis  
-- Git & GitHub  
-- Using AI for learning & productivity  
-
----
+--- 
 
 ## 💻 Tech Stack
 
