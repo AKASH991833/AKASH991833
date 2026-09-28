@@ -7,8 +7,8 @@ I am a fresher focused on Linux administration and automation. I work with Linux
 ## Featured projects
 
 - [server-monitoring](https://github.com/AKASH991833/server-monitoring) - Bash monitoring for CPU, RAM, disk, inodes and services with threshold alerts and daily HTML reports. Tested on a real Ubuntu 24.04 runner in GitHub Actions.
-- [shellsense](https://github.com/AKASH991833/shellsense) - Python terminal assistant for Linux with command suggestions, fuzzy search and CLI tools.
 - [linux-dupe-audit](https://github.com/AKASH991833/linux-dupe-audit) - Safe Python CLI that finds exact duplicate files (SHA-256) and visually similar photos. Never deletes by default.
+- [multi-tool](https://github.com/AKASH991833/multi-tool) - Browser-based image, PDF and text utilities that run fully on the device. Live at [akash991833.github.io/multi-tool](https://akash991833.github.io/multi-tool/).
 - [linux-app](https://github.com/AKASH991833/linux-app) - Offline Android app for learning Linux: lessons, chapter-wise quizzes and interview Q&A.
 
 ## Currently learning
