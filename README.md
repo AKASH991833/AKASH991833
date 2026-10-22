@@ -8,7 +8,7 @@ I am a fresher focused on Linux administration and automation. I work with Linux
 
 ## Linux & DevOps projects (start here)
 
-Three production-style Bash toolkits. Every one ships a full test-suite, honest test reports, and CI that proves it on real machines - Ubuntu VMs **and** Rocky Linux 9.
+Three production-style Bash toolkits. Every one ships a full test-suite, honest test reports, and CI that proves it on real machines - Ubuntu VMs **and** a 5-distro Red Hat family matrix (Rocky 9, AlmaLinux 9, CentOS Stream 9, Fedora, Red Hat UBI 9).
 
 - **[linux-server-hardening-monitoring](https://github.com/AKASH991833/linux-server-hardening-monitoring)** - Audit a server against 43 security checks (0-100 score + grade), fix safely with dry-run + byte-identical rollback + SSH anti-lockout guard, detect drift from a baseline, and monitor health with flap-suppressed alerts (webhook/Telegram/mail, mock-server-tested) and Prometheus export.
 - **[nginx-mysql-ssl-backup-webstack](https://github.com/AKASH991833/nginx-mysql-ssl-backup-webstack)** - One command per site: hardened Nginx (TLS 1.2/1.3, security headers, rate limiting) + MariaDB with least-privilege users + backups **proven restorable by real restore tests** + GFS retention + cert watchdog + health checks. Includes a docker-compose lab verified in CI.
